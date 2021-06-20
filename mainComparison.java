@@ -47,12 +47,9 @@ public class mainComparison {
         System.out.println("------------------------------------------");
         System.out.println("Metode\t\t\tWaktu(ns)");
 
-//        System.out.println("Bubble Sort\t\t" + Sort(A, n, 1));
-//        System.out.println("Insertion Sort\t\t" + Sort(B, n, 2));
-//        System.out.println("Selection Sort\t\t" + Sort(C, n, 3));
-        System.out.println("Bubble Sort\t\t" + "333064706363578");
-        System.out.println("Insertion Sort\t\t" + "15929062319208");
-        System.out.println("Selection Sort\t\t" + "142058706453121");
+        System.out.println("Bubble Sort\t\t" + Sort(A, n, 1));
+        System.out.println("Insertion Sort\t\t" + Sort(B, n, 2));
+        System.out.println("Selection Sort\t\t" + Sort(C, n, 3));
         System.out.println("Quick Sort\t\t" + Sort(D, n, 4));
         System.out.println("Merge Sort\t\t" + Sort(E, n, 5));
         System.out.println("Heap Sort\t\t" + Sort(F, n, 6));
