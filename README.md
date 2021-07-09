@@ -1,5 +1,4 @@
 # Sorting Algorithm Time Comparison
-Perbandingan running time dari setiap algoritma pengurutan
 ## Penulis: Ridho Nur Rohman Wijaya
 Pada kesempatan kali ini akan dijelaskan perbandingan running time dari setiap algoritma pengurutan. Implementasi menggunakan bahasa pemrograman java.
 
